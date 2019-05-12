@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="angka_kedua" type="id" />
+    <item name="textView5" type="id" />
+    <item name="angka_pertama" type="id" />
+    <item name="textView1" type="id" />
+    <item name="bersihkan" type="id" />
+    <item name="tambah" type="id" />
+    <item name="bagi" type="id" />
+</resources>
